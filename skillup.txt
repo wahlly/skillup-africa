@@ -1,0 +1,27 @@
+Both Amazon Alexa and Google Assistant have developed into excellent voice assistants.
+They have dueling sets of features: Alexa supports multiple wake words, 
+for instance, while Google lets you upload your own music to its cloud. 
+Alexa is more configurable if you're willing to stick to its specific syntax,
+while Google Assistant is easier to use, less frustrating, and more fluid.
+Google's speakers generally sound better. But the 3.5mm output jack on Amazon's
+models, as well as the Echo Input add-on, opens up a huge world of third-party 
+speakers you can then Alexa-enable with little effort. Both assistants are 
+also now available on a range of third-party speakers, including flagship
+products from Bose and Sonos.
+
+HOW AMAZON ECHO OR GOOGLE HOME CAN BE USED IN OUR HOME:
+	Both Alexa and Google Assistant let you combine your devices into rooms,
+so you can say things like "turn on the living room lights," 
+and both support Routines, which let you combine multiple
+ actions into one command.
+Both the Echo and the Google Home link up to TVs using their associated
+streaming sticks. If you buy a Chromecast or a Fire TV Stick, you can 
+tell them to open Hulu or play a show. The Google Home has one big 
+content advantage: It integrates with YouTube, which keeps appearing 
+and disappearing from Echo devices because of a power struggle between
+Google and Amazon.
+
+THE INTERCONNECTION HAPPENING BETWEEN THESE DEVICES:
+	the amazon echo and google home make use of the WI-FI network.
+Therefore, we can conclude that the kind of interconnection happening
+between these devices is a LOCAL AREA NETWORK.
